@@ -1,11 +1,13 @@
+
 .body-container {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 20vw auto;
     background-color: #efefef;
 }
 
 .section-container {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr 1fr;
     background-color: #efefef;
+    height: 100vh;
 }
