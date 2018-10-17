@@ -11,3 +11,9 @@
     background-color: #efefef;
     height: 100vh;
 }
+
+.nav-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    position: fixed;
+}
